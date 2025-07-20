@@ -59,15 +59,6 @@ java p2
 
 ---
 
-## 📁 Project Structure
-
-```
-📦 Notepad-Java
- ┣ 📄 p2.java      # Main file with all logic & UI
-```
-
----
-
 ## 👨‍💻 Author
 
 **Anuj Pisal**  
